@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="welcome">Welcome</string>
+    <string name="legalChar">0123456789abcdefghijklmnopqrstuvwxyzABCDEFJHIJKLMNOPQRSTUVWXYZ@.</string>
+    <string name="button_login_transition">button_login_sign</string>
+    <string name="action_settings">setting</string>
+</resources>
